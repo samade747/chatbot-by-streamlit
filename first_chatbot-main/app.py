@@ -42,7 +42,7 @@ def main():
                     st.rerun()
         
         st.divider()
-        st.caption("✨ Made by Maryam Faizan with 💜")
+        st.caption("✨ Made by samad with 💜")
         st.caption("✨Powered by Google Gemini AI")
     
     # Main content
